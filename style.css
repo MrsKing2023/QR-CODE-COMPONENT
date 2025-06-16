@@ -50,6 +50,7 @@ Media Queries
 @media screen and (max-width: 480px) {
     #qr-container {
     margin-top: 2rem;
+    width: 93%;
     }
 }
 
@@ -61,6 +62,6 @@ Media Queries
 
 @media screen and (max-width: 320px) {
     #qr-container {
-        width: 300px;        
+        width: 265px;        
     }
 }
